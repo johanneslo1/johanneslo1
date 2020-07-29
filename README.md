@@ -1,1 +1,1 @@
-<h1 align="center">Hey, I'm Johannes 👋</h1>
+<img src="https://raw.githubusercontent.com/johanneslo1/johanneslo1/master/welcome_banner.png" alt="Welcome banner">
